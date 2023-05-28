@@ -1,0 +1,233 @@
+<html>
+
+ <head></head> 
+
+ <body id="v49"> 
+
+  <meta id="v50" charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+
+  <title id="v51">sky神威网盘储存工具</title> 
+
+  <script src="js/jq.js"></script> 
+
+  <style id="v38">
+
+  
+
+	*{   margin:0;
+
+   padding:0;
+
+   }
+
+body{
+
+  width:100vw;
+
+  height:100vh;
+
+ }
+
+ .undo{
+
+   position:absolute;
+
+   top:0;
+
+   left:0;
+
+   text-align:center;
+
+   color:#93fffd;
+
+   width:100%;
+
+  height:auto;
+
+  background:url("https://pan.bllts.cn/view.php/a7fcb7c2b8dfd915551707de509306b3.jpg")
+
+   }
+
+ .undo img{
+
+   width:30%;
+
+border:2px solid skyblue;
+
+border-radius:50%;
+
+   }
+
+  
+
+ </style> 
+
+  <div id="v13" class="undo"> 
+
+   <p id="v14">ㅤ</p> 
+
+   <img id="v16" src="https://image.api.losfer.cn/view.php/65a0b0f2fd6fde82349fe06276de4f28.jpg"> 
+
+   <div id="v17" color="some"> 
+
+   </div> 
+
+   <center id="v3"> 
+
+    <h2 id="v20">灭某.©2023原创</h2> 
+
+    <p id="v21">ㅤ</p> 
+
+    <hr id="v39"> 
+
+    <p id="v22">ㅤ</p> 
+
+    <style id="v41">
+
+  button
+
+{
+
+  border:1px solid #00ffe8;
+
+  border-radius:8px;
+
+  font-size:16px;
+
+  letter-spacing:15px;
+
+  background-color:#e0afff;
+
+  width:300px;
+
+  height:35px;
+
+  text-align:center;
+
+  position:relative;
+
+  top:-16px;
+
+}
+
+</style> 
+
+    <button id="v43"> <a id="v45" href="https://pan.bllts.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         浅汐网盘 
+
+       </center></font></a> </button> 
+
+    <pre id="v52"> </pre> 
+
+    <button id="v43"> <a id="v45" href="http://cdn.410wl.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         小叶网盘 
+
+       </center></font></a></button> 
+
+    <pre id="v53"> </pre> 
+
+    <button id="v43"> <a id="v45" href="https://image.api.losfer.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         LOSFER网盘 
+
+       </center></font></a></button> 
+
+    <pre id="v54"> </pre> 
+
+    <button id="v43"> <a id="v45" href="http://yun.flyskill.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         FLY网盘 
+
+       </center></font></a></button> 
+
+    <pre id="v55"> </pre> 
+
+    <button id="v43"> <a id="v45" href="https://api.ln/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         快手网盘 
+
+       </center></font></a></button> 
+
+    <pre id="v56"> </pre> 
+
+    <button id="v43"> <a id="v45" href="https://image.api.losfer.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         网盘未添加 
+
+       </center></font></a></button> 
+
+    <pre id="v57"> </pre> 
+
+    <button id="v43"> <a id="v45" href="https://image.api.losfer.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         网盘未添加 
+
+       </center></font></a></button> 
+
+    <pre id="v58"> </pre> 
+
+    <button id="v43"> <a id="v45" href="https://image.api.losfer.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         网盘未添加 
+
+       </center></font></a></button> 
+
+    <pre id="v59"> </pre> 
+
+    <button id="v43"> <a id="v45" href="https://image.api.losfer.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         网盘未添加 
+
+       </center></font></a></button> 
+
+    <pre id="v60"> </pre> 
+
+    <button id="v43"> <a id="v45" href="https://image.api.losfer.cn/" style="text-decoration:none" target="_blank"><font id="v46" color="#aefff8"> 
+
+       <center id="v48">
+
+         网盘未添加 
+
+       </center></font></a></button> 
+
+    <p id="v61">神威原创-收集网盘软件©2023-2024</p> 
+
+    <hr id="v62"> 
+
+    <pre id="v63"> </pre> 
+
+    <audio src="http://music.163.com/song/media/outer/url?id=1965161564.mp3" width="100%" controls="" id="v13"> 
+
+    </audio> 
+
+    <audio id="v64" src="http://music.163.com/song/media/outer/url?id=492390949.mp3" autoplay="" loop=""></audio> 
+
+    <pre id="v65"> </pre> 
+
+   </center> 
+
+  </div> 
+
+ </body>
+
+</html>
